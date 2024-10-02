@@ -1,4 +1,3 @@
-![logo](https://github.com/nikhilyadav566/nikhilyadav566/blob/main/linkedin%20background%20cover.png )
 <h1 align="center">Hi 👋, I'm Nikhil Yadav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
