@@ -17,6 +17,7 @@
 <a href="https://twitter.com/@YadavNikhil566" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@yada60462nikhil" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nikhil yadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhil yadav" height="30" width="40" /></a>
 <a href="https://instagram.com/nikhilyad566" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nikhilyad566" height="30" width="40" /></a>
+  <a href="https://facebook.com/nikhilyaduvanshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nikhilyad566" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
