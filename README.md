@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilyadav566&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilyadav566" /> </p>
 
-- 👨‍💻 All of my projects are available at [www.linkedin.com/in/nikhilyad566](www.linkedin.com/in/nikhilyad566)
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/nikhilyad566/](https://www.linkedin.com/in/nikhilyad566/)
 
 - 📫 How to reach me **nikhilyad42004@gmail.com**
 
