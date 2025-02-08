@@ -16,19 +16,19 @@
 
 ## 🚀 Connect with Me  
 <p align="left">
-  <a href="https://twitter.com/YOUR_TWITTER_USERNAME" target="_blank">
+  <a href="https://twitter.com/YadavNikhil566" target="twitter_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
   
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/" target="_blank">
+  <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=nikhilyad566" target="linkdein_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 
-  <a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME/" target="_blank">
+  <a href="https://www.instagram.com/Nikhilyad566/" target="instagram_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 
-  <a href="https://www.facebook.com/YOUR_FACEBOOK_USERNAME/" target="_blank">
+  <a href="https://www.facebook.com/nikhilyad566" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
 </p>
@@ -69,7 +69,4 @@
 
 ## 📊 GitHub Activity Graph  
 ![GitHub commit activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nikhilyadav566&theme=react-dark&area=true)
-
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=nikhilyadav566&theme=onedark&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
