@@ -14,21 +14,62 @@
 
 - ⚡ Fun fact **I am funny 😂💕**
 
-<h3 align="left">Connect with me:</h3>
+## 🚀 Connect with Me  
 <p align="left">
-<a href="https://twitter.com/@YadavNikhil566" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@yada60462nikhil" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=nikhilyad566" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhil yadav" height="30" width="40" /></a>
-<a href="https://instagram.com/nikhilyad566" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nikhilyad566" height="30" width="40" /></a>
-  <a href="https://www.facebook.com/nikhilyad566" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nikhilyad566" height="30" width="40" /></a>
+  <a href="https://twitter.com/YOUR_TWITTER_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+
+  <a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+
+  <a href="https://www.facebook.com/YOUR_FACEBOOK_USERNAME/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/c/index.php" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/default.asp" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/js/default.asp" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://react.dev/learn" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/docs/installation" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+## 🚀 Languages & Tools  
+<p align="left">
+  <!-- C -->
+  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  
+  <!-- C++ -->
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikhilyadav566&show_icons=true&locale=en&layout=compact" alt="nikhilyadav566" /></p>
+  <!-- HTML -->
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+  
+  <!-- CSS -->
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+  
+  <!-- Tailwind CSS -->
+  <img src="https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikhilyadav566&show_icons=true&locale=en" alt="nikhilyadav566" /></p>
+  <!-- JavaScript -->
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  
+  <!-- React -->
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilyadav566&" alt="nikhilyadav566" /></p>
 
+## 📊 GitHub Stats  
+[![Nikhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikhilyadav566&show_icons=true&theme=radical&bg_color=0D1117&title_color=ffcc00&text_color=39d353&icon_color=ff6b6b)](https://github.com/anuraghazra/github-readme-stats)
+
+## 🔥 Top Languages  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilyadav566&layout=compact&theme=radical&bg_color=0D1117&title_color=ffcc00&text_color=39d353)](https://github.com/anuraghazra/github-readme-stats)
+
+## 🔥 GitHub Streak Stats  
+[![GitHub Streak](https://streak-stats.demolab.com?user=nikhilyadav566&theme=dark&background=0D1117&fire=ff6b6b&ring=ffcc00&currStreakLabel=00bfff&sideLabels=ff00ff&dates=39d353)](https://git.io/streak-stats)
+
+## 📊 GitHub Activity Graph  
 ![GitHub commit activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nikhilyadav566&theme=react-dark&area=true)
+
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=nikhilyadav566&theme=onedark&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
