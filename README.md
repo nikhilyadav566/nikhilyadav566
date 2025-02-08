@@ -113,13 +113,13 @@ I can write code faster than I can type a WhatsApp message! 😆💻
 
 
 ## 📊 GitHub Stats  
-[![Nikhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikhilyadav566&show_icons=true&theme=radical&bg_color=0D1117&title_color=ffcc00&text_color=39d353&icon_color=ff6b6b)
+![Nikhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikhilyadav566&show_icons=true&theme=radical&bg_color=0D1117&title_color=ffcc00&text_color=39d353&icon_color=ff6b6b)
 
 ## 🔥 Top Languages  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilyadav566&layout=compact&theme=radical&bg_color=0D1117&title_color=ffcc00&text_color=39d353)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilyadav566&layout=compact&theme=radical&bg_color=0D1117&title_color=ffcc00&text_color=39d353)
 
 ## 🔥 GitHub Streak Stats  
-[![GitHub Streak](https://streak-stats.demolab.com?user=nikhilyadav566&theme=dark&background=0D1117&fire=ff6b6b&ring=ffcc00&currStreakLabel=00bfff&sideLabels=ff00ff&dates=39d353)
+![GitHub Streak](https://streak-stats.demolab.com?user=nikhilyadav566&theme=dark&background=0D1117&fire=ff6b6b&ring=ffcc00&currStreakLabel=00bfff&sideLabels=ff00ff&dates=39d353)
 ## 📊 GitHub Activity Graph  
 ![GitHub commit activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nikhilyadav566&theme=react-dark&area=true)
 
