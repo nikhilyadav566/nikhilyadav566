@@ -108,6 +108,16 @@ I can write code faster than I can type a WhatsApp message! 😆💻
   <a href="https://www.canva.com/" target="_blank">
     <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
   </a>  
+
+  <!-- Git -->
+<a href="https://git-scm.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</a>
+
+<!-- GitHub -->
+<a href="https://github.com/" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
 </p>
 
 
