@@ -6,9 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilyadav566&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilyadav566" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikhilyadav566" alt="nikhilyadav566" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/@y" target="blank"><img src="https://img.shields.io/twitter/follow/@y?logo=twitter&style=for-the-badge" alt="@y" /></a> </p>
+<p align="left"> <a href="https://twitter.com/yadavnikhil566" target="blank"><img src="https://img.shields.io/twitter/follow/yadavnikhil566?logo=twitter&style=for-the-badge" alt="yadavnikhil566" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [👉Click here👈](https://www.linkedin.com/in/nikhilyad566/)
 
@@ -32,3 +30,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikhilyadav566&show_icons=true&locale=en" alt="nikhilyadav566" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilyadav566&" alt="nikhilyadav566" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikhilyadav566" alt="nikhilyadav566" /></a> </p>
