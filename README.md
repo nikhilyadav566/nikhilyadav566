@@ -18,11 +18,17 @@
 🔭 I love building **beautiful, user-friendly web interfaces**!  
 📚 Always excited to **learn & explore new technologies**!  
 
-## 📞 How to Reach Me  
+ 
+<div align="center">
+ <h2> ## 📞 How to Reach Me </h2> 
+<p>
+  📧 <strong>Email:</strong> 
+  <a href="mailto:nikhilyadav2767@gmail.com">nikhilyadav2767@gmail.com</a>
+</p>
+</div>
 
-📧 **Email:** [nikhilyadav2767@gmail.com](mailto:nikhilyadav2767@gmail.com)
 
-<p align="left">
+<p align="center">
   <!-- Email Badge -->
   <a href="mailto:nikhilyadav2767@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -120,16 +126,32 @@ I can write code faster than I can type a WhatsApp message! 😆💻
 </a>
 </p>
 
+  
+
+<table>
+  <tr>
+    <td>
+      <h3>📊 GitHub Stats</h3>
+      <img src="https://github-readme-stats.vercel.app/api?username=nikhilyadav566&show_icons=true&theme=radical&bg_color=0D1117&title_color=ffcc00&text_color=39d353&icon_color=ff6b6b"/>
+    </td>
+    <td style="padding-left: 20px;">
+      <h3>🔥 Top Languages</h3>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilyadav566&layout=compact&theme=radical&bg_color=0D1117&title_color=ffcc00&text_color=39d353"/>
+    </td>
+  </tr>
+</table>
 
 
-## 📊 GitHub Stats  
-![Nikhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikhilyadav566&show_icons=true&theme=radical&bg_color=0D1117&title_color=ffcc00&text_color=39d353&icon_color=ff6b6b)
 
-## 🔥 Top Languages  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilyadav566&layout=compact&theme=radical&bg_color=0D1117&title_color=ffcc00&text_color=39d353)
+## 🔥 GitHub Streak Stats
 
-## 🔥 GitHub Streak Stats  
+<div align="center">
+  
 ![GitHub Streak](https://streak-stats.demolab.com?user=nikhilyadav566&theme=dark&background=0D1117&fire=ff6b6b&ring=ffcc00&currStreakLabel=00bfff&sideLabels=ff00ff&dates=39d353)
+
+</div>
+
+
 ## 📊 GitHub Activity Graph  
 ![GitHub commit activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nikhilyadav566&theme=react-dark&area=true)
 
