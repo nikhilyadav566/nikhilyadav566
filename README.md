@@ -44,6 +44,11 @@
   <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">
     <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   </a>
+  
+  <!-- Java -->
+  <a href="https://www.java.com/en/" target="_blank">
+    <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  </a>
 
   <!-- HTML -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
@@ -69,6 +74,15 @@
   <a href="https://react.dev/" target="_blank">
     <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   </a>
+ <!-- Figma -->
+  <a href="https://www.figma.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  </a>
+
+<!-- Canva -->
+  <a href="https://www.canva.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
+  </a>  
 </p>
 
 
