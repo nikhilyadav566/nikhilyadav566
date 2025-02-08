@@ -25,15 +25,15 @@
   📧 <strong>Email:</strong> 
   <a href="mailto:nikhilyadav2767@gmail.com">nikhilyadav2767@gmail.com</a>
 </p>
-</div>
-
-
-<p align="center">
+ <!--For Email Badge-->
+ <p>
   <!-- Email Badge -->
   <a href="mailto:nikhilyadav2767@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
+</div>
+
 
 ---
 
@@ -43,6 +43,8 @@
 I can write code faster than I can type a WhatsApp message! 😆💻  
 
 🔥 Also, I love debugging... except when the bug is on Friday night! 🐞😂  
+
+&nbsp;
 
 
 ## 🚀 Connect with Me  
@@ -155,7 +157,11 @@ I can write code faster than I can type a WhatsApp message! 😆💻
 ## 📊 GitHub Activity Graph  
 ![GitHub commit activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nikhilyadav566&theme=react-dark&area=true)
 
+## 🏆 GitHub Trophies  
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nikhilyadav566&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
+</p>
 
 
 
