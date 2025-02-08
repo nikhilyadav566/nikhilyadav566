@@ -22,7 +22,7 @@
 
 ## 📞 How to Reach Me  
 
-📧 **Email:** [nikhilyadav2767@gmail.com](mailto:nikhilyad566@gmail.com)
+📧 **Email:** [nikhilyadav2767@gmail.com](mailto:nikhilyadav2767@gmail.com)
 
 <p align="left">
   <!-- Email Badge -->
@@ -124,4 +124,10 @@ I can write code faster than I can type a WhatsApp message! 😆💻
 [![GitHub Streak](https://streak-stats.demolab.com?user=nikhilyadav566&theme=dark&background=0D1117&fire=ff6b6b&ring=ffcc00&currStreakLabel=00bfff&sideLabels=ff00ff&dates=39d353)
 ## 📊 GitHub Activity Graph  
 ![GitHub commit activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nikhilyadav566&theme=react-dark&area=true)
+
+
+
+
+
+
 
