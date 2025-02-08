@@ -10,9 +10,26 @@
 
 - 👨‍💻 All of my projects are available at [👉Click here👈](https://www.linkedin.com/in/nikhilyad566/)
 
-- 📫 How to reach me **nikhilyad42004@gmail.com**
+## 📞 How to Reach Me  
 
-- ⚡ Fun fact **I am funny 😂💕**
+📧 **Email:** [nikhilyadav2767@gmail.com](mailto:nikhilyad566@gmail.com)
+
+<p align="left">
+  <!-- Email Badge -->
+  <a href="mailto:nikhilyadav2767@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+
+## 🤓 Fun Fact  
+
+💡 **Did you know?**  
+I can write code faster than I can type a WhatsApp message! 😆💻  
+
+🔥 Also, I love debugging... except when the bug is on Friday night! 🐞😂  
+
 
 ## 🚀 Connect with Me  
 <p align="left">
