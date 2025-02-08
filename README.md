@@ -31,4 +31,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilyadav566&" alt="nikhilyadav566" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikhilyadav566" alt="nikhilyadav566" /></a> </p>
+![GitHub commit activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nikhilyadav566&theme=react-dark&area=true)
