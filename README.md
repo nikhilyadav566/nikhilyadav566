@@ -144,11 +144,9 @@ I can write code faster than I can type a WhatsApp message! 😆💻
 </table>
 
 
-
-## 🔥 GitHub Streak Stats
-
 <div align="center">
-  
+<h3>## 🔥 GitHub Streak Stats </h3> 
+ 
 ![GitHub Streak](https://streak-stats.demolab.com?user=nikhilyadav566&theme=dark&background=0D1117&fire=ff6b6b&ring=ffcc00&currStreakLabel=00bfff&sideLabels=ff00ff&dates=39d353)
 
 </div>
