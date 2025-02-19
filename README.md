@@ -2,7 +2,13 @@
 <h1 align="center">Hi 👋, I'm Nikhil Yadav</h1>
 <h3 align="center"> 🚀 A passionate frontend developer from India</h3>
 
-<img src="https://github.com/nikhilyadav566/nikhilyadav566/blob/main/profile.gif">
+<div style="display: flex;">
+<div>
+  <img src="https://github.com/nikhilyadav566/nikhilyadav566/blob/main/profile.gif" width="300px" height="auto">
+</div>
+
+
+<div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilyadav566&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilyadav566" /> </p>
 
 <p align="left"> <a href="https://twitter.com/yadavnikhil566" target="blank"><img src="https://img.shields.io/twitter/follow/yadavnikhil566?logo=twitter&style=for-the-badge" alt="yadavnikhil566" /></a> </p>
@@ -16,7 +22,8 @@
 
 🔭 I love building **beautiful, user-friendly web interfaces**!  
 📚 Always excited to **learn & explore new technologies**!  
-
+</div>
+</div>
  
 <div align="center">
  <h2> ## 📞 How to Reach Me </h2> 
