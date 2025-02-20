@@ -5,7 +5,7 @@
 
 <table>
   <tr>
-    <td>
+    <td style="width: 70%;">
       
 ### 👋 Hi, I'm Nikhil Yadav  
 👨‍💻 BCA Student | Frontend Developer | Learning MERN Stack  
@@ -23,9 +23,10 @@
 📚 Always excited to **learn & explore new technologies**!  
 
    </td>
-   <td>
-      <a href="https://nikhilyadav566.github.io/Modal-share/"><img src="https://github.com/nikhilyadav566/nikhilyadav566/blob/main/profile.gif" 
-       width="400" height="auto"></a>
+   <td style="width: 30%;" align="center">
+      <a href="https://nikhilyadav566.github.io/Modal-share/">
+        <img src="https://github.com/nikhilyadav566/nikhilyadav566/blob/main/profile.gif" width="250px" height="auto">
+      </a>
    </td>
   </tr>
 </table>
