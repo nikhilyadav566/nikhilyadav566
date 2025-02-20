@@ -5,7 +5,6 @@
 
 <a href ="https://nikhilyadav566.github.io/Modal-share/"><img align="right" alt="gif" width="400" src="https://github.com/nikhilyadav566/nikhilyadav566/blob/main/profile%20(2)%20(1).gif" height="380" ></a>
 
-### 👋 Hi, I'm Nikhil Yadav  
 👨‍💻 BCA Student | Frontend Developer | Learning MERN Stack  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nikhilyadav566&label=Profile%20views&color=0e75b6&style=flat)
