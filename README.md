@@ -3,6 +3,11 @@
 <h1 align="center">Hi 👋, I'm Nikhil Yadav</h1>
 <h3 align="center"> 🚀 A passionate frontend developer from India</h3>
 
+ <!-- ✅ GIF for Mobile (Hidden on Desktop) -->
+<div align="left">
+  <img src="https://github.com/nikhilyadav566/nikhilyadav566/blob/main/profile.gif" width="250px" height="auto" class="mobile">
+</div>
+
 <table>
   <tr>
     <td style="width: 70%;">
@@ -24,12 +29,24 @@
 
    </td>
    <td style="width: 30%;" align="center">
+      <!-- ✅ GIF for Desktop (Hidden on Mobile) -->
       <a href="https://nikhilyadav566.github.io/Modal-share/">
-        <img src="https://github.com/nikhilyadav566/nikhilyadav566/blob/main/profile.gif" width="250px" height="auto">
+        <img src="https://github.com/nikhilyadav566/nikhilyadav566/blob/main/profile.gif" width="250px" height="auto" class="desktop">
       </a>
    </td>
   </tr>
 </table>
+
+<!-- ✅ Hide/Show based on screen size -->
+<style>
+  @media (max-width: 768px) {
+    .desktop { display: none; } /* Hide Desktop GIF on Mobile */
+  }
+  @media (min-width: 769px) {
+    .mobile { display: none; } /* Hide Mobile GIF on Desktop */
+  }
+</style>
+
 
  
 <div align="center">
