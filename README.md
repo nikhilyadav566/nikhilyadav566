@@ -3,8 +3,7 @@
 <h1 align="center">Hi 👋, I'm Nikhil Yadav</h1>
 <h3 align="center"> 🚀 A passionate frontend developer from India</h3>
 
-<!-- ✅ Mobile GIF (Only visible on mobile) -->
-<img align="right" alt="gif" width="400" src="https://github.com/nikhilyadav566/nikhilyadav566/blob/main/profile.gif">
+<a href ="https://nikhilyadav566.github.io/Modal-share/"><img align="right" alt="gif" width="400" src="https://github.com/nikhilyadav566/nikhilyadav566/blob/main/profile.gif"></a>
 
 ### 👋 Hi, I'm Nikhil Yadav  
 👨‍💻 BCA Student | Frontend Developer | Learning MERN Stack  
