@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Nikhil Yadav</h1>
 <h3 align="center"> 🚀 A passionate frontend developer from India</h3>
 
-<a href ="https://nikhilyadav566.github.io/Modal-share/"><img align="right" alt="gif" width="400" src="https://github.com/nikhilyadav566/nikhilyadav566/blob/main/profile%20(2)%20(1).gif" height="380" ></a>
+<a href ="https://nikhilyadav566.github.io/Modal-share/"><img align="right" alt="gif" width="400" src="https://github.com/nikhilyadav566/nikhilyadav566/blob/main/profile%20(2)%20(1).gif" height="400" ></a>
 
 👨‍💻 BCA Student | Frontend Developer | Learning MERN Stack  
 
@@ -19,7 +19,7 @@
 🔭 I love building **beautiful, user-friendly web interfaces**!  
 📚 Always excited to **learn & explore new technologies**!  
 
- 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  
 <div align="center">
  <h2> ## 📞 How to Reach Me </h2> 
