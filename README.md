@@ -3,28 +3,33 @@
 <h1 align="center">Hi 👋, I'm Nikhil Yadav</h1>
 <h3 align="center"> 🚀 A passionate frontend developer from India</h3>
 
-<div style="display: flex;">
-<div>
-  <img src="https://github.com/nikhilyadav566/nikhilyadav566/blob/main/profile.gif" width="300px" height="auto">
-</div>
+<table>
+  <tr>
+    <td>
+      
+### 👋 Hi, I'm Nikhil Yadav  
+👨‍💻 BCA Student | Frontend Developer | Learning MERN Stack  
 
+![Profile Views](https://komarev.com/ghpvc/?username=nikhilyadav566&label=Profile%20views&color=0e75b6&style=flat)
 
-<div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilyadav566&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilyadav566" /> </p>
+[![Twitter Follow](https://img.shields.io/twitter/follow/yadavnikhil566?logo=twitter&style=for-the-badge)](https://twitter.com/yadavnikhil566)
 
-<p align="left"> <a href="https://twitter.com/yadavnikhil566" target="blank"><img src="https://img.shields.io/twitter/follow/yadavnikhil566?logo=twitter&style=for-the-badge" alt="yadavnikhil566" /></a> </p>
-
-- 👨‍💻 All of my projects are available at [👉Click here👈](https://www.linkedin.com/in/nikhilyad566/)
-
-- 💻 I specialize in **Frontend Development** with expertise in:  
-- **HTML, CSS, Tailwind CSS, JavaScript, React.js**  
-- **UI/UX design using Figma & Canva**  
-- Currently learning **MERN Stack Development**  
+- 🔗 All my projects: [👉Click here👈](https://www.linkedin.com/in/nikhilyad566/)  
+- 💻 **Frontend Stack:** HTML, CSS, Tailwind CSS, JavaScript, React.js  
+- 🎨 **UI/UX Tools:** Figma, Canva  
+- 🚀 **Currently learning MERN Stack**  
 
 🔭 I love building **beautiful, user-friendly web interfaces**!  
 📚 Always excited to **learn & explore new technologies**!  
-</div>
-</div>
+
+   </td>
+   <td>
+      <a href="https://nikhilyadav566.github.io/Modal-share/"><img src="https://github.com/nikhilyadav566/nikhilyadav566/blob/main/profile.gif" 
+       width="auto" height="auto"></a>
+   </td>
+  </tr>
+</table>
+
  
 <div align="center">
  <h2> ## 📞 How to Reach Me </h2> 
