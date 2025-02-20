@@ -25,7 +25,7 @@
    </td>
    <td>
       <a href="https://nikhilyadav566.github.io/Modal-share/"><img src="https://github.com/nikhilyadav566/nikhilyadav566/blob/main/profile.gif" 
-       width="auto" height="auto"></a>
+       width="400" height="auto"></a>
    </td>
   </tr>
 </table>
