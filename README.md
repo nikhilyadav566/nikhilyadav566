@@ -8,7 +8,6 @@
 👨‍💻 BCA Student | Frontend Developer | Learning MERN Stack  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nikhilyadav566&label=Profile%20views&color=0e75b6&style=flat)   
-📄 Know about my experiences [Resume](https://github.com/nikhilyadav566/My_Resume/blob/main/My_Resume.pdf)
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/yadavnikhil566?logo=twitter&style=for-the-badge)](https://twitter.com/yadavnikhil566)
 
