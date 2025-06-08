@@ -68,6 +68,10 @@ I can write code faster than I can type a WhatsApp message! 😆💻
   <a href="https://www.facebook.com/nikhilyad566" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
+ <a href="https://www.youtube.com/@CodeWizNik" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+</a>
+
 </p>
 
 ## 🚀 Languages & Tools  
